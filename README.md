@@ -1,4 +1,4 @@
-# ai-manga-github
+# Manga-GitHub
 
 ![slide1](/images/slide1.png)
 ![slide2](/images/slide2.png)
