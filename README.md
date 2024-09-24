@@ -1,12 +1,12 @@
 # Manga-GitHub
 
-# 本リポジトリの意図
+## 本リポジトリの目的
 ![slide1](/images/slide1.png)
 ![slide2](/images/slide2.png)
 ![slide3](/images/slide3.png)
 ![slide4](/images/slide4.png)
 
-# 注意
+## ライセンスに関する注意
 CC0 1.0 Universalライセンスは、著作者が自身の作品に対するほぼすべての権利を放棄し、パブリックドメインに近い状態で公開することを目的としています。このライセンスの主な特徴は以下の通りです：
 許可していること：
 
