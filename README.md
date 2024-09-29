@@ -1,5 +1,7 @@
 # Manga-GitHub
 
+本リポジトリの運用については随時追記いたします(2024/09/29)
+
 ## 本リポジトリの目的
 ![slide1](/images/slide1.png)
 ![slide2](/images/slide2.png)
